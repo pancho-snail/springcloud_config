@@ -8,7 +8,7 @@ spring:   # 服务名称，暂时没有用，讲到SpringCloud服务调用的时
     url: jdbc:mysql://127.0.0.1:3306/springcloud?characterEncoding=UTF8
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: 356527
+    password: 123456
   jpa:
     show-sql: true # 是否打印sql语句
     generate-ddl: true # 是否自动建表
